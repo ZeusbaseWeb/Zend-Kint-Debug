@@ -2,7 +2,7 @@
 Var_dump(), print_r() and debug_backtrace() alternative for PHP.
 This repository is a port of original Kint's library adapted for Zend Framework users.
 
-The **Kint** project's author is Rokas Sleinius, an amazing PHP programmer.
+The **Kint** project's author is **Rokas Sleinius**, an amazing PHP programmer.
 You will find official project @ http://code.google.com/p/kint/
 
 ## Kint - debugging helper for PHP developers
