@@ -21,7 +21,7 @@ class IndexController extends Zend_Controller_Action
         // which would stop script from executing after rendering results
 
         // much nicer and better alternative to debug_backtrace()
-        Kint::trace();
+        //Kint::trace();
     }
 }
 
